@@ -1,7 +1,7 @@
 <table style="border: none; text-align: center; width: 100%;">
   <tr>
     <td style="padding: 0;">
-      <img src="[https://i.ibb.co/vhs2zZB/channels4-banner-modified-1.png](https://i.ibb.co/hXz5x74/channels4-banner.png)" style="width: 100%;" alt="Banner">
+      <img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner">
     </td>
   </tr>
   <tr>
