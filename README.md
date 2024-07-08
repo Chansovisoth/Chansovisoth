@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="height: 170px; width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="height: 170px; width: 51%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical" alt="Streak Stats" style="height: 200px; width: 48%;">
 </div>
 
