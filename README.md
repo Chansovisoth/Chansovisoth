@@ -12,10 +12,13 @@
   </tr>
 </table>
 
+
 Welcome to my crummy little profile. I'm a CS major from Paragon International University. Here you'll find a collection of my projects, contributions, and some things I'm currently working on.
+
 
 ## 🚀 About Me
 I love Minecraft :D
+
 
 ## 🛠️ Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -33,11 +36,13 @@ I love Minecraft :D
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
 
+
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 45%; height: auto; margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 45%; height: auto; margin: 10px;">
 </div>
+
 
 ## 📫 Reach me here
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
