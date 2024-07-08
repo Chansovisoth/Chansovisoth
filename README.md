@@ -2,7 +2,7 @@
   <tr>
     <t>
       <img src="https://yt3.googleusercontent.com/3bMjXA_KUsDUAZlGtYJWeJCc6h0O1P9xI8T5YoR2qn66dBxl_IwhbaJe3z6YFXIJlroWutGd7w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" style="width: 100%;">
-      <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin: 10px;">
+      <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin-top: -100px;">
     </td>
   </tr>
   <tr>
