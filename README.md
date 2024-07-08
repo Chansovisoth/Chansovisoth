@@ -1,19 +1,6 @@
-<table style="border: none; text-align: center; width: 100%;">
-  <tr>
-    <td style="padding: 0;">
-      <img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <blockquote style="margin: 0; padding: 15px; border-left: 5px solid #ccc; background: #f9f9f9; border-radius: 5px; font-style: italic; box-shadow: 0 2px 5px rgba(0,0,0,0.1); font-family: 'Georgia', serif; font-weight: bold; font-size: 1.5em;">
-        "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner">
 
-
+> "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 ## 🚀 About Me
 - 🎮 I love Minecraft
