@@ -1,17 +1,21 @@
-<div style="display: flex; align-items: center; border-radius: 12px; border: 3px gray solid; padding: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/134577854?v=4" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;">
-  <div>
-    <h2>Chansovisoth Wattanak</h2>
-    <p>@Chansovisoth</p>
-  </div>
-</div>
-
-# Hi, my name is Chansovisoth Wattanak 👋
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/134577854?v=4" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;">
+    </td>
+    <td>
+      <h2>Chansovisoth Wattanak</h2>
+      <p>@Chansovisoth</p>
+    </td>
+  </tr>
+</table>
 
 Welcome to my crummy little profile. I'm a CS major from Paragon International University with interests in various programming languages and technologies. Here you'll find a collection of my projects, contributions, and some things I'm currently working on.
 
+
 ## 🚀 About Me
 I love Minecraft :D
+
 
 ## 🛠️ Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -25,9 +29,12 @@ I love Minecraft :D
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)
 
+
 ## 📊 GitHub Stats
 ![Chansovisoth Wattanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical)
+
 
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
