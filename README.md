@@ -53,11 +53,14 @@
 </div> -->
 
 ## 📫 Reach me here
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+<div align="center">
+  <a href="https://t.me/chansovisoth">
+    <img src="https://camo.githubusercontent.com/5aa27f16a02102d99e1d1ecae19c6f5eb4b81d0b39a48227fa4cb5f3dcfa62cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3243413545303f6c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465267374796c653d666c6174" alt="Telegram"/>
+  </a>
+  <a href="mailto:cwattanak@paragoniu.edu.kh">
+    <img src="https://camo.githubusercontent.com/b3df0b2a281fb5ef89a8fc4eaa31e5da7e5fa4b5e5b765ee4b4ef0cb4b19c2c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d4431343833363f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465267374796c653d666c6174" alt="Email"/>
+  </a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://camo.githubusercontent.com/e2567d5e0ad19f6d4b085af57b49acb3a0e7b44b14f8f2c80373b8f82a3e50c7/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d6368616e736f7669736f74682669636f6e3d3626636f6c6f723d30" alt="View Count"/>
+  </a>
 </div>
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:cwattanak@paragoniu.edu.kh)
-[![View Count](https://visitcount.itsvg.in/api?id=chansovisoth&icon=6&color=0)](https://visitcount.itsvg.in)
