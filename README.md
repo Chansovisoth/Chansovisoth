@@ -13,6 +13,10 @@
   </tr>
 </table>
 
+<blockquote>
+"Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
+</blockquote>
+
 ## 🚀 About Me
 - 🎮 I love Minecraft
 - 🎨 I enjoy designing
