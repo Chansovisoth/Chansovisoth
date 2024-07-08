@@ -1,13 +1,11 @@
 <table style="border: none; text-align: center; width: 100%;">
   <tr>
-    <td style="padding: 0; background: url('https://yt3.googleusercontent.com/3bMjXA_KUsDUAZlGtYJWeJCc6h0O1P9xI8T5YoR2qn66dBxl_IwhbaJe3z6YFXIJlroWutGd7w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'); background-size: cover; background-position: center;">
+    <td style="padding: 0; background-image: url('https://yt3.googleusercontent.com/3bMjXA_KUsDUAZlGtYJWeJCc6h0O1P9xI8T5YoR2qn66dBxl_IwhbaJe3z6YFXIJlroWutGd7w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'); background-size: cover; background-position: center;">
       <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin: 10px;">
     </td>
   </tr>
   <tr>
     <td>
-      <h2>Chansovisoth Wattanak</h2>
-      <p>@Chansovisoth</p>
       <blockquote style="margin: 0; padding: 15px; border-left: 5px solid #ccc; background: #f9f9f9; border-radius: 5px; font-style: italic; box-shadow: 0 2px 5px rgba(0,0,0,0.1); font-family: 'Georgia', serif; font-weight: bold; font-size: 1.5em;">
         "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
       </blockquote>
@@ -15,10 +13,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
 
 ## 🚀 About Me
 - 🎮 I love Minecraft
@@ -47,18 +41,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical" alt="Streak Stats" style="width: 51%;">
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical" alt="Top Languages">
 </div>
-
-
 
 ## 📫 Reach me here
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:cwattanak@paragoniu.edu.kh)
-
----
-
 [![View Count](https://visitcount.itsvg.in/api?id=chansovisoth&icon=6&color=0)](https://visitcount.itsvg.in)
-
-</div>
