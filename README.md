@@ -1,10 +1,12 @@
-<table style="border: none;">
+<table style="border: none; text-align: center;">
   <tr>
     <td style="padding: 0;">
       <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin: 0;">
     </td>
+  </tr>
+  <tr>
     <td>
-      <h2>Chansovisoth Wattanak<h2>
+      <h2>Chansovisoth Wattanak</h2>
       <p>@Chansovisoth</p>
       <blockquote style="margin: 0; padding-left: 10px; border-left: 5px solid #ccc; font-style: italic;">
         "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
@@ -12,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## 🚀 About Me
@@ -37,12 +40,14 @@
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="height: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical" alt="Streak Stats" style="height: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="height: 200px; width: 48%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical" alt="Streak Stats" style="height: 200px; width: 48%;">
 </div>
-<div>
+
+<div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical" alt="Top Languages">
 </div>
+
 
 
 ## 📫 Reach me here
