@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td>
-      <img src="https://i.ibb.co/HYQc1WR/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1.jpg" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;">
+    <td style="padding: 0;">
+      <img src="https://i.ibb.co/HYQc1WR/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1.jpg" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin: 0;">
     </td>
     <td>
       <h2>Chansovisoth Wattanak</h2>
