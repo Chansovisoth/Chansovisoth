@@ -42,8 +42,12 @@ I love Minecraft :D
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
-![Chansovisoth Wattanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical)
+![Chansovisoth Wattanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chansovisoth&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=dark&hide_border=false)<br/>
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![View Count](https://visitcount.itsvg.in/api?id=chansovisoth&icon=6&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
