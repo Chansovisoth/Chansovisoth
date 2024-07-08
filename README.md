@@ -1,5 +1,3 @@
-<div align="center">
-
 <table>
   <tr>
     <td style="padding: 0;">
@@ -36,11 +34,10 @@ Welcome to my profile! I'm a Computer Science major at Paragon International Uni
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 80%; height: auto; margin: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical" alt="Streak Stats" style="width: 80%; height: auto; margin: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 80%; height: auto; margin: 10px;">
-</div>
+![Chansovisoth Wattanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical)
+
 
 ## 📫 Reach me here
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
