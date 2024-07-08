@@ -1,16 +1,18 @@
-<table>
+<table style="border: none;">
   <tr>
     <td style="padding: 0;">
       <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin: 0;">
     </td>
     <td>
-      Chansovisoth Wattanak<br>
-      @Chansovisoth
+      <h2>Chansovisoth Wattanak<h2>
+      <p>@Chansovisoth</p>
+      <blockquote style="margin: 0; padding-left: 10px; border-left: 5px solid #ccc; font-style: italic;">
+        "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
+      </blockquote>
     </td>
   </tr>
 </table>
 
-Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on.
 
 ## 🚀 About Me
 - 🎮 I love Minecraft
@@ -34,9 +36,13 @@ Welcome to my profile! I'm a Computer Science major at Paragon International Uni
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
-![Chansovisoth Wattanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical" alt="Streak Stats" style="width: 48%;">
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 100%;">
+</div>
 
 
 ## 📫 Reach me here
