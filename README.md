@@ -4,7 +4,7 @@
       <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px;">
     </td>
     <td style="padding: 0;">
-      <img src="https://i.ibb.co/bgBqWrd/channels4-banner-modified.png" style="width: 100%;" alt="Banner">
+      <img src="https://i.ibb.co/vhs2zZB/channels4-banner-modified-1.png" style="width: 100%;" alt="Banner">
     </td>
   </tr>
   <tr>
