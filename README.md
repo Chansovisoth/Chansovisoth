@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td>
-      <blockquote style="margin: 0; padding: 25px 20px; border-left: 5px solid #ccc; background: #f9f9f9; border-radius: 5px; font-style: italic;">
+      <blockquote>
         "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
       </blockquote>
     </td>
