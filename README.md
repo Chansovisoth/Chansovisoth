@@ -12,10 +12,8 @@
 
 Welcome to my crummy little profile. I'm a CS major from Paragon International University with interests in various programming languages and technologies. Here you'll find a collection of my projects, contributions, and some things I'm currently working on.
 
-
 ## 🚀 About Me
 I love Minecraft :D
-
 
 ## 🛠️ Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -29,13 +27,12 @@ I love Minecraft :D
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)
 
-
 ## 📊 GitHub Stats
-![Chansovisoth Wattanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical)
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 100%;">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical)
-
-
-## 📫 How to reach me
+## 📫 Reach me here
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:cwattanak@paragoniu.edu.kh)
