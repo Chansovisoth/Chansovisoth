@@ -1,3 +1,5 @@
+<div align="center">
+
 <table>
   <tr>
     <td style="padding: 0;">
@@ -10,13 +12,8 @@
   </tr>
 </table>
 
-# Hi, my name is Chansovisoth Wattanak 👋
+Welcome to my crummy little profile. I'm a CS major from Paragon International University. Here you'll find a collection of my projects, contributions, and some things I'm currently working on.
 
-Welcome to my crummy little profile. I'm a CS major from Paragon International University. Here you'll find a collection of my projects, contributions, and some things I'm currently working on. 
-```
-⠀⠀⠀ ⠀  Λ____Λ
-　⠀⠀⠀≺ ˵• ﻌ •˵ ≻
-```
 ## 🚀 About Me
 I love Minecraft :D
 
@@ -38,10 +35,12 @@ I love Minecraft :D
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 50%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 50%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 45%; height: auto; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 45%; height: auto; margin: 10px;">
 </div>
 
 ## 📫 Reach me here
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:cwattanak@paragoniu.edu.kh)
+
+</div>
