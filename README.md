@@ -13,7 +13,9 @@
 # Hi, my name is Chansovisoth Wattanak 👋
 
 Welcome to my crummy little profile. I'm a CS major from Paragon International University. Here you'll find a collection of my projects, contributions, and some things I'm currently working on. 
+
 ⠀⠀⠀ ⠀ ⠀ Λ__Λ
+
 　⠀⠀⠀≺ ˵ • ﻌ • ˵ ≻
 
 ## 🚀 About Me
