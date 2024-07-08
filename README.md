@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/134577854?v=4" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;">
+      <img src="https://i.ibb.co/HYQc1WR/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1.jpg" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;">
     </td>
     <td>
       <h2>Chansovisoth Wattanak</h2>
@@ -28,9 +28,9 @@ I love Minecraft :D
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 50%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 50%; height: auto;">
 </div>
 
 ## 📫 Reach me here
