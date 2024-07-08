@@ -1,12 +1,7 @@
 <table style="border: none; text-align: center; width: 100%;">
   <tr>
-    <td style="width: 100px; padding: 0;">
-      <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-    </td>
     <td style="padding: 0;">
-      <img src="https://i.ibb.co/vhs2zZB/channels4-banner-modified-1.png" style="width: 100%;" alt="Banner">
+      <img src="[https://i.ibb.co/vhs2zZB/channels4-banner-modified-1.png](https://i.ibb.co/hXz5x74/channels4-banner.png)" style="width: 100%;" alt="Banner">
     </td>
   </tr>
   <tr>
