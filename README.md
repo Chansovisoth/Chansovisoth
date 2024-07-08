@@ -8,12 +8,14 @@
     <td>
       <h2>Chansovisoth Wattanak</h2>
       <p>@Chansovisoth</p>
-      <blockquote style="margin: 0; padding-left: 10px; border-left: 5px solid #ccc; font-style: italic;">
+      <blockquote style="margin: 0; padding: 15px; border-left: 5px solid #ccc; background: #f9f9f9; border-radius: 5px; font-style: italic; box-shadow: 0 2px 5px rgba(0,0,0,0.1); font-family: 'Georgia', serif; font-weight: bold; font-size: 1.2em;">
         "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
       </blockquote>
+      <br>
     </td>
   </tr>
 </table>
+
 
 
 
@@ -40,7 +42,7 @@
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="height: 200px; width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="height: 170px; width: 48%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical" alt="Streak Stats" style="height: 200px; width: 48%;">
 </div>
 
