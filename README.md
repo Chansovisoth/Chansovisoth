@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner">
+<a href="https://github.com/chansovisoth">
+  <img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner">
+</a>
 
 > "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
