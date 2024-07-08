@@ -10,7 +10,11 @@
   </tr>
 </table>
 
-Welcome to my crummy little profile. I'm a CS major from Paragon International University with interests in various programming languages and technologies. Here you'll find a collection of my projects, contributions, and some things I'm currently working on.
+# Hi, my name is Chansovisoth Wattanak 👋
+
+Welcome to my crummy little profile. I'm a CS major from Paragon International University. Here you'll find a collection of my projects, contributions, and some things I'm currently working on. 
+⠀⠀⠀ ⠀ ⠀ Λ__Λ
+　⠀⠀⠀≺ ˵ • ﻌ • ˵ ≻
 
 ## 🚀 About Me
 I love Minecraft :D
@@ -19,6 +23,7 @@ I love Minecraft :D
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -26,6 +31,9 @@ I love Minecraft :D
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
