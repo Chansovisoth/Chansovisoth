@@ -14,8 +14,8 @@
 
 Welcome to my crummy little profile. I'm a CS major from Paragon International University. Here you'll find a collection of my projects, contributions, and some things I'm currently working on. 
 ```
-⠀⠀⠀ ⠀ ⠀ Λ__Λ
-　⠀⠀⠀≺ ˵ • ﻌ • ˵ ≻
+⠀⠀⠀ ⠀ ⠀Λ____Λ
+　⠀⠀⠀≺˵ • ﻌ • ˵≻
 ```
 ## 🚀 About Me
 I love Minecraft :D
