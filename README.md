@@ -4,8 +4,8 @@
       <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin: 0;">
     </td>
     <td>
-      <h2>Chansovisoth Wattanak</h2>
-      <p>@Chansovisoth</p>
+      Chansovisoth Wattanak<br>
+      @Chansovisoth
     </td>
   </tr>
 </table>
