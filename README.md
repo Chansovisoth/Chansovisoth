@@ -1,13 +1,16 @@
 <table style="border: none; text-align: center; width: 100%;">
   <tr>
-    <td style="padding: 0; background-image: url('https://yt3.googleusercontent.com/3bMjXA_KUsDUAZlGtYJWeJCc6h0O1P9xI8T5YoR2qn66dBxl_IwhbaJe3z6YFXIJlroWutGd7w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'); background-size: cover; background-position: center;">
+    <t>
+      <img src="https://yt3.googleusercontent.com/3bMjXA_KUsDUAZlGtYJWeJCc6h0O1P9xI8T5YoR2qn66dBxl_IwhbaJe3z6YFXIJlroWutGd7w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" style="width: 100%;">
       <img src="https://i.ibb.co/xzMJ8n1/6dfe69f5191e99e02bac0b5c4c20ae6098797521-s2-n2-y1-modified-1.png" alt="Profile Picture" style="border-radius: 50%; width: 100px; height: 100px; margin: 10px;">
     </td>
   </tr>
   <tr>
-    <blockquote>
-        "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
-    </blockquote>
+    <td>
+      <blockquote>
+          "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
+      </blockquote>
+    </td>
   </tr>
 </table>
 
