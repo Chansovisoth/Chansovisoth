@@ -12,17 +12,12 @@
   </tr>
 </table>
 
-# Profile
-
-Welcome to my crummy little profile. I'm a CS major from Paragon International University. Here you'll find a collection of my projects, contributions, and some things I'm currently working on.
+Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on.
 
 ## 🚀 About Me
-I love Minecraft :D
-
-## 📫 Reach me here
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:cwattanak@paragoniu.edu.kh)
-
+- 🎮 I love Minecraft
+- 🎨 I enjoy designing
+- 💻 I'm passionate about programming and new technology
 
 ## 🛠️ Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -32,7 +27,6 @@ I love Minecraft :D
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
@@ -42,12 +36,18 @@ I love Minecraft :D
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
-![Chansovisoth Wattanak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chansovisoth&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=dark&hide_border=false)<br/>
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&show_icons=true&theme=radical" alt="Chansovisoth Wattanak's GitHub Stats" style="width: 80%; height: auto; margin: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chansovisoth&theme=radical" alt="Streak Stats" style="width: 80%; height: auto; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical" alt="Top Languages" style="width: 80%; height: auto; margin: 10px;">
+</div>
+
+## 📫 Reach me here
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/chansovisoth)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:cwattanak@paragoniu.edu.kh)
 
 ---
+
 [![View Count](https://visitcount.itsvg.in/api?id=chansovisoth&icon=6&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
