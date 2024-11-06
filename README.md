@@ -7,9 +7,8 @@
 > "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 ## 🚀 About Me
-- 🎮 I love Minecraft
-- 🎨 I enjoy designing
-- 💻 I'm passionate about programming and new technology
+- 🎮 I love Minecraft :D
+- 💻 I'm passionate about web development and design
 
 ## 🛠️ Technologies & Tools
 <div align="center">
