@@ -58,9 +58,9 @@
 
 ## 📫 Reach me here
 <p align="center">
-  <a href="https://t.me/chansovisoth">
+<!--   <a href="https://t.me/null">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat" alt="Telegram">
-  </a>
+  </a> -->
   <a href="mailto:cwattanak@paragoniu.edu.kh">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
   </a>
