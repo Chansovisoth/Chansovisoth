@@ -13,53 +13,32 @@
 ## 🛠️ Technologies & Tools
 <div align="center">
 <!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+    <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+    <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
+    <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo" />
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+    <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
+    <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+    <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" />
+    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" />
+  </div>
 </div>
 
 ## 📊 GitHub Stats
