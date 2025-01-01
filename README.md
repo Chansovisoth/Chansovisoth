@@ -4,10 +4,10 @@
 <br>
 <br>
 
-> "Welcome to my profile! I'm a Computer Science major at Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
+> "Welcome to my profile! I'm a Computer Science Junior from Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 ## 🚀 About Me
-- 🎮 I love Minecraft :D
+- 🎮 I love Art and Minecraft :D
 - 💻 I'm passionate about web development and design
 
 ## 🛠️ Technologies & Tools
