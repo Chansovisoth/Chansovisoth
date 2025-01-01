@@ -7,13 +7,12 @@
 > "Welcome to my profile! I'm a Computer Science Junior from Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 ## 🚀 About Me
-- 🎮 I love Art and Minecraft :D
+- 🎮 I love Minecraft :D
+- 🎨 I make digital art occasionally
 - 💻 I'm passionate about web development and design
 
 ## 🛠️ Technologies & Tools
 <div align="center">
-<!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
-  <div align="center">
 <!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
     <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
@@ -41,8 +40,6 @@
     <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" title="Adobe Illustrator" />
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" title="Adobe Photoshop" />
   </div>
-</div>
-
 </div>
 
 ## 📊 GitHub Stats
