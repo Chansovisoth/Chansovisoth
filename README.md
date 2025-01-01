@@ -13,7 +13,7 @@
 ## 🛠️ Technologies & Tools
 <div align="center">
 <!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; text-decoration: none;">
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
     </a>
