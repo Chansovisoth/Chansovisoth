@@ -12,7 +12,7 @@
 
 ## 🛠️ Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,mysql,postgresql,postman,git,linux,cpp,python,java,figma,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps" />
 </div>
 
 ## 📊 GitHub Stats
