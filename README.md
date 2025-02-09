@@ -61,9 +61,9 @@
   <a href="mailto:cwattanak@paragoniu.edu.kh">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
   </a>
-  <a href="https://facebook.com/chansovisoth">
+<!--   <a href="https://facebook.com/chansovisoth">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook">
-  </a>
+  </a> -->
   <a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=chansovisoth.chansovisoth&right_color=darkgrey&left_text=Viewers"  />
   </a>
