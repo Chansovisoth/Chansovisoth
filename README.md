@@ -1,5 +1,6 @@
 <a href="https://github.com/chansovisoth">
-  <img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner">
+<!--   <img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner"> -->
+  <img src="profile-banner.png" style="width: 100%;" alt="Banner">
 </a>
 <br>
 <br>
@@ -7,9 +8,9 @@
 > "Welcome to my profile! I'm a Computer Science Junior from Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 ## 🚀 About Me
-- 🎮 I love Minecraft :D
-- 🎨 I make digital art occasionally
-- 💻 I'm passionate about web development and design
+  🎮 I love Minecraft :D
+  🎨 I make digital art occasionally
+  💻 I'm passionate about web development and design
 
 ## 🛠️ Technologies & Tools
 <div align="center">
