@@ -8,9 +8,9 @@
 > "Welcome to my profile! I'm a Computer Science Junior from Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 ## 🚀 About Me
-  🎮 I love Minecraft :D
-  🎨 I make digital art occasionally
-  💻 I'm passionate about web development and design
+- 🎮 I love Minecraft :D
+- 🎨 I make digital art occasionally
+- 💻 I'm passionate about web development and design
 
 ## 🛠️ Technologies & Tools
 <div align="center">
