@@ -7,12 +7,12 @@
 
 > "Welcome to my profile! I'm a Computer Science Junior from Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 - 🎮 I love Minecraft :D
 - 🎨 I make digital art occasionally
 - 💻 I'm passionate about web development and design
 
-## 🛠️ Technologies & Tools
+## 🛠️ EXPERIENCES
 <div align="center">
 <!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
@@ -43,7 +43,7 @@
   </div>
 </div>
 
-## 📊 GitHub Stats
+## 🔥 GITHUB STATS
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=chansovisoth&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical" alt="Top Languages">
 </div> -->
 
-## 📫 Reach me here
+## 🦊 INQUIRE WITH ME
 <p align="center">
 <!--   <a href="https://t.me/null">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat" alt="Telegram">
