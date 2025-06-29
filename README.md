@@ -9,14 +9,14 @@
 
 > "Welcome to my profile! I'm a Computer Science Junior from Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
-## 🚀 ABOUT ME
+## 🦊 ABOUT ME
 
-- 🧑‍🎓 Computer Science Junior
-- 🎮 I love Minecraft :D
-- 🎨 I make digital art occasionally
-- 💻 I'm passionate about web development and design
+> 🧑‍🎓⠀ Computer Science Junior <br>
+> 🎮⠀ I love Minecraft :D <br>
+> 🎨⠀ I make digital art occasionally <br>
+> 💻⠀ I'm passionate about web development and design
 
-## 🛠️ EXPERIENCES
+## 🍀 EXPERIENCES
 <div align="center">
 <!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
@@ -51,7 +51,7 @@
   </div>
 </div>
 
-## 🦊 INQUIRE WITH ME
+## 💌 INQUIRE WITH ME
 
 <div align="center">
 
