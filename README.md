@@ -14,7 +14,7 @@
 > 🎓 ⠀Computer Science Junior <br>
 > 🎮 ⠀I love Minecraft :D <br>
 > 🎨 ⠀I make digital art occasionally <br>
-> 💻 ⠀I'm passionate about web development and design
+> 💻 ⠀I'm passionate about **Fullstack Development** and **Design**
 
 ## 🍀 EXPERIENCES
 <div align="center">
