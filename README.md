@@ -7,7 +7,7 @@
 </a>
 <br><br>
 
-> "Welcome to my profile! I'm a Computer Science Junior from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on."
+> "Welcome to my profile! I'm a student from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 ## 🦊 ABOUT ME
 
