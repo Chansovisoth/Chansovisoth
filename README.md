@@ -7,14 +7,14 @@
 </a>
 <br><br>
 
-> "Welcome to my profile! I'm a Computer Science Junior from Paragon International University. Here, you'll find my projects, contributions, and some things I'm currently working on."
+> "Welcome to my profile! I'm a Computer Science Junior from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 ## 🦊 ABOUT ME
 
-> 🧑‍🎓⠀ Computer Science Junior <br>
-> 🎮⠀ I love Minecraft :D <br>
-> 🎨⠀ I make digital art occasionally <br>
-> 💻⠀ I'm passionate about web development and design
+> 🎓 ⠀Computer Science Junior <br>
+> 🎮 ⠀I love Minecraft :D <br>
+> 🎨 ⠀I make digital art occasionally <br>
+> 💻 ⠀I'm passionate about web development and design
 
 ## 🍀 EXPERIENCES
 <div align="center">
