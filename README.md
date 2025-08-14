@@ -8,7 +8,8 @@
 <br><br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Font_Awesome_5_solid_quote-left.svg" width="16"/>  
-Welcome to my profile! I'm a student from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on.
+Welcome to my profile! I'm a student from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Font_Awesome_5_solid_quote-right.svg" width="16"/>
 
 ## ​🦊 ABOUT ME
 
