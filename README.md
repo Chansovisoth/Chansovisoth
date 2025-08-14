@@ -9,11 +9,11 @@
 
 > "Welcome to my profile! I'm a student from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
-## 🦊 ABOUT ME
+## ​ ABOUT ME
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> ⠀Computer Science Junior <br>
-> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Minecraft-Dark.svg" width="20"/> ⠀I love Minecraft :D <br>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="20"/> ⠀I make digital art occasionally <br>
+> <img src="https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/18.%20Decoration/Grass_Block.png" width="20"/> ⠀I love Minecraft :D <br>
+> <img src="https://assets.procreate.art/img/procreate-icon.png" width="20"/> ⠀I make digital art occasionally <br>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ⠀I'm passionate about **Fullstack Development** and **UI/UX Design**
 
 ## 🍀 EXPERIENCES
