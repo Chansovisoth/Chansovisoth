@@ -9,14 +9,14 @@
 
 > "Welcome to my profile! I'm a student from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
-## ​<img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40"/> ABOUT ME
+## ​<img src="https://static-cdn.jtvnw.net/emoticons/v2/301025183/static/light/3.0" height="40"/> ABOUT ME
 
 > <img src="https://paragoniu.edu.kh/wp-content/uploads/2020/04/favicon-white.png" width="20"/> ⠀Computer Science Junior <br>
 > <img src="https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/18.%20Decoration/Grass_Block.png" width="20"/> ⠀I love Minecraft :D <br>
 > <img src="https://assets.procreate.art/img/procreate-icon.png" width="20"/> ⠀I make digital art occasionally <br>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ⠀I'm passionate about **Fullstack Development** and **UI/UX Design**
 
-## <img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40"/> EXPERIENCES
+## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab57fc91574944d6bf23653512bb5e7c/static/light/3.0" height="40"/> EXPERIENCES
 <div align="center">
 <!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
