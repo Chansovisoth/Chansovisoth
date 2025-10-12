@@ -9,14 +9,14 @@
 
 > "Hi. I'm a student from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
-### ​<img src="https://static-cdn.jtvnw.net/emoticons/v2/301025183/static/light/3.0" height="40"/> ABOUT ME
+## ​<img src="https://static-cdn.jtvnw.net/emoticons/v2/301025183/static/light/3.0" height="40"/> ABOUT ME
 
 > <img src="https://paragoniu.edu.kh/wp-content/uploads/2020/04/favicon-white.png" width="20"/> ⠀Computer Science Junior <br>
 > <img src="https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/18.%20Decoration/Grass_Block.png" width="20"/> ⠀I love Minecraft :D <br>
 > <img src="https://assets.procreate.art/img/procreate-icon.png" width="20"/> ⠀I make digital art occasionally <br>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ⠀I'm passionate about **Fullstack Development** and **UI/UX Design**
 
-### <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab57fc91574944d6bf23653512bb5e7c/static/light/3.0" height="40"/> EXPERIENCES
+## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab57fc91574944d6bf23653512bb5e7c/static/light/3.0" height="40"/> EXPERIENCES
 <div align="center">
 <!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
@@ -48,10 +48,11 @@
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
 <!--     <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" title="Adobe Illustrator" /> -->
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" title="Adobe Photoshop" />
+    <img src="https://assets.procreate.art/img/procreate-icon.png" height="40" alt="procreate logo" title="Procreate"/>
   </div>
 </div>
 
-### <img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40" title="Sup." /> INQUIRE WITH ME
+## <img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40" title="Sup." /> INQUIRE WITH ME
 
 <div align="center">
 
@@ -59,7 +60,7 @@
 
 </div>
 
-### <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85e1d7ce97e24e3f9f1ba277d3112c11/static/light/3.0" height="40"/> STATS 
+## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85e1d7ce97e24e3f9f1ba277d3112c11/static/light/3.0" height="40"/> STATS 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=chansovisoth&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
