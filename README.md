@@ -41,12 +41,7 @@
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="Linux" />
     <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" title="Python" />
-<!--     <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="Java" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" title="Spring" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" title="Android Studio" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" title="Dart" /> -->
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
-<!--     <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" title="Adobe Illustrator" /> -->
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" title="Adobe Photoshop" />
     <img src="https://assets.procreate.art/img/procreate-icon.png" height="40" alt="procreate logo" title="Procreate"/>
   </div>
