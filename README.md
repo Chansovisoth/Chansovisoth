@@ -18,9 +18,7 @@
 
 ## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab57fc91574944d6bf23653512bb5e7c/static/light/3.0" height="40"/> EXPERIENCES
 <div align="center">
-<!--   <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,bootstrap,laravel,php,jquery,mysql,postgresql,postman,git,netlify,cloudflare,linux,cpp,python,java,spring,androidstudio,dart,figma,ai,ps&perline=12" /> -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" /><br> -->
     <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" title="HTML" />
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="CSS" />
@@ -43,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" title="Python" />
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" title="Adobe Photoshop" />
+    <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo" title="Godot" />
     <img src="https://assets.procreate.art/img/procreate-icon.png" height="40" alt="procreate logo" title="Procreate"/>
   </div>
 </div>
@@ -61,7 +60,3 @@
   <img src="https://streak-stats.demolab.com?user=chansovisoth&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chansovisoth&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Perfomance%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
-
-<!-- <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chansovisoth&layout=compact&theme=radical" alt="Top Languages">
-</div> -->
