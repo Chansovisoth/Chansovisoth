@@ -19,6 +19,10 @@
 ## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab57fc91574944d6bf23653512bb5e7c/static/light/3.0" height="40"/> EXPERIENCES
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo" title="Godot" />
+    <img src="https://assets.procreate.art/img/procreate-icon.png" height="40" alt="procreate logo" title="Procreate"/>
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
+    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" title="Adobe Photoshop" />
     <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" title="HTML" />
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="CSS" />
@@ -39,10 +43,6 @@
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="Linux" />
     <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" title="Python" />
-    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" title="Adobe Photoshop" />
-    <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo" title="Godot" />
-    <img src="https://assets.procreate.art/img/procreate-icon.png" height="40" alt="procreate logo" title="Procreate"/>
   </div>
 </div>
 
