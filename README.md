@@ -9,12 +9,15 @@
 
 > "Hi. I'm a student from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
-## ​<img src="https://static-cdn.jtvnw.net/emoticons/v2/301025183/static/light/3.0" height="40"/> ABOUT ME
 
+
+## ​<img src="https://static-cdn.jtvnw.net/emoticons/v2/301025183/static/light/3.0" height="40"/> ABOUT ME
 > <img src="https://paragoniu.edu.kh/wp-content/uploads/2020/04/favicon-white.png" width="20"/> ⠀Computer Science Junior <br>
 > <img src="https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/18.%20Decoration/Grass_Block.png" width="20"/> ⠀I love Minecraft & Hytale :D <br>
 > <img src="https://assets.procreate.art/img/procreate-icon.png" width="20"/> ⠀I make digital art occasionally <br>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ⠀I'm passionate about **Fullstack Development**, **UI/UX Design**, and **Game Development**.
+
+
 
 ## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab57fc91574944d6bf23653512bb5e7c/static/light/3.0" height="40"/> EXPERIENCES
 <div align="center">
@@ -46,13 +49,16 @@
   </div>
 </div>
 
-## <img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40" title="Sup." /> INQUIRE WITH ME
 
+
+## <img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40" title="Sup." /> INQUIRE WITH ME
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Chansovisoth&label=Views&color=D14836&style=for-the-badge&logo=star" alt="Chansovisoth" style="padding-right:20px;" /> [![Email](https://img.shields.io/badge/Email-cwattanak%40paragoniu.edu.kh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cwattanak@paragoniu.edu.kh) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChansovisothWattanak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cwattanak)
 
 </div>
+
+
 
 ## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85e1d7ce97e24e3f9f1ba277d3112c11/static/light/3.0" height="40"/> STATS 
 <div align="center">
