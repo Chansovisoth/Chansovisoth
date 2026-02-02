@@ -12,7 +12,7 @@
 ## ​<img src="https://static-cdn.jtvnw.net/emoticons/v2/301025183/static/light/3.0" height="40"/> ABOUT ME
 
 > <img src="https://paragoniu.edu.kh/wp-content/uploads/2020/04/favicon-white.png" width="20"/> ⠀Computer Science Junior <br>
-> <img src="https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/18.%20Decoration/Grass_Block.png" width="20"/> ⠀I love Minecraft :D <br>
+> <img src="https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/18.%20Decoration/Grass_Block.png" width="20"/> ⠀I love Minecraft & Hytale :D <br>
 > <img src="https://assets.procreate.art/img/procreate-icon.png" width="20"/> ⠀I make digital art occasionally <br>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ⠀I'm passionate about **Fullstack Development** and **UI/UX Design**
 
