@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" title="HTML" />
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="CSS" />
-    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next.js" />
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js" />
     <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" title="PHP" />
