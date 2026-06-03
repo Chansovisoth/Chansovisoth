@@ -7,7 +7,7 @@
 </a>
 <br><br>
 
-> "Hi. I'm a student from **Paragon International University**. Here, you'll find my projects, contributions, and some things I'm currently working on."
+> "Hi. I'm a student from **Paragon International University**. Welcome to my humble digital abode. Here, you'll find my projects, contributions, and some things I'm currently working on."
 
 
 
