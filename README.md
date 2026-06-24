@@ -54,7 +54,7 @@
 ## <img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40" title="Sup." /> INQUIRE WITH ME
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Chansovisoth&label=Views&color=D14836&style=for-the-badge&logo=star" alt="Chansovisoth" style="padding-right:20px;" /> [![Email](https://img.shields.io/badge/Email-cwattanak%40paragoniu.edu.kh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cwattanak@paragoniu.edu.kh) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChansovisothWattanak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cwattanak)
+<img src="https://komarev.com/ghpvc/?username=Chansovisoth&label=Views&color=D14836&style=for-the-badge&logo=star" alt="Chansovisoth" style="padding-right:20px;" /> [![Email](https://img.shields.io/badge/Email-wattanakchansovisoth%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wattanakchansovisoth@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChansovisothWattanak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cwattanak)
 
 </div>
 
