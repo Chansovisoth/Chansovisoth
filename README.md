@@ -7,7 +7,7 @@
 </a>
 <br><br>
 
-> "Hi. I'm a student from **Paragon International University**. Welcome to my humble digital abode. Here, you'll find my projects, contributions, and some things I'm currently working on."
+> "Hi. I'm a CS graduate from **Paragon International University**. Welcome to my humble digital abode. Here, you'll find my projects, contributions, and some of the things I'm currently working on."
 
 
 
@@ -54,8 +54,7 @@
 ## <img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40" title="Sup." /> INQUIRE WITH ME
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Chansovisoth&label=Views&color=D14836&style=for-the-badge&logo=star" alt="Chansovisoth" style="padding-right:20px;" /> [![Email](https://img.shields.io/badge/Email-wattanakchansovisoth%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wattanakchansovisoth@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChansovisothWattanak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cwattanak)
-
+<img src="https://komarev.com/ghpvc/?username=Chansovisoth&label=Views&color=D14836&style=for-the-badge&logo=star" alt="Chansovisoth" style="padding-right:20px;" /> [![Email](https://img.shields.io/badge/Email-chansovisoth.business%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=chansovisoth.business@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChansovisothWattanak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chansovisoth/)
 </div>
 
 
