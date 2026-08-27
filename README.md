@@ -7,7 +7,7 @@
 </a>
 <br><br>
 
-> "Hi. I'm a CS graduate from **Paragon International University**. Welcome to my humble digital abode. Here, you'll find my projects, contributions, and some of the things I'm currently working on."
+> "Hi. I'm a CS graduate from **Paragon International University**. Welcome to my humble digital abode. Here, you'll find my projects, contributions, and some of the things I'm currently working on." Pfp: @OKAMIkoto050
 
 
 
