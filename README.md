@@ -1,7 +1,7 @@
 <a href="https://github.com/chansovisoth">
   <!--   <img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner"> -->
   <div>
-    <img src="profile-banner.png" style="width: 100%;" alt="Banner">
+    <img src="banner.png" style="width: 100%;" alt="Banner">
     <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
   </div>
 </a>
