@@ -12,10 +12,10 @@
 
 
 ## ​<img src="https://static-cdn.jtvnw.net/emoticons/v2/301025183/static/light/3.0" height="40"/> ABOUT ME
-> <img src="https://paragoniu.edu.kh/wp-content/uploads/2020/04/favicon-white.png" width="20"/> ⠀Computer Science Senior at PIU <br>
+> <img src="https://paragoniu.edu.kh/wp-content/uploads/2020/04/favicon-white.png" width="20"/> ⠀Computer Science Graduate from PIU <br>
 > <img src="https://minecraft.wiki/images/thumb/Java_Edition_icon_3.png/240px-Java_Edition_icon_3.png?f7112" width="20"/> ⠀I love Minecraft & Hytale :D <br>
-> <img src="https://assets.procreate.art/img/procreate-icon.png" width="20"/> ⠀I make digital art occasionally <br>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ⠀I'm passionate about **Fullstack Development**, **UI/UX Design**, and **Game Development**.
+> <img src="https://assets.procreate.art/img/procreate-icon.png" width="20"/> ⠀I also do **digital art & graphic design** occasionally <br>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ⠀Passionate about **Full-Stack Development**, **Cloud & DevOps**, **UI/UX Design**, and **Game Development**
 
 
 
@@ -54,7 +54,11 @@
 ## <img src="https://static-cdn.jtvnw.net/emoticons/v2/301025176/static/light/3.0" height="40" title="Sup." /> INQUIRE WITH ME
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Chansovisoth&label=Views&color=D14836&style=for-the-badge&logo=star" alt="Chansovisoth" style="padding-right:20px;" /> [![Email](https://img.shields.io/badge/Email-chansovisoth.business%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=chansovisoth.business@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChansovisothWattanak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chansovisoth/)
+<img src="https://img.shields.io/badge/For%20job%20opportunities%2C%20collaborations%2C%20freelance%20work%2C%20or%20just%20to%20say%20hi.-0d1117?style=for-the-badge" alt="For job opportunities, collaborations, freelance work, or just to say hi.">
+<!-- <img src="https://komarev.com/ghpvc/?username=Chansovisoth&label=Views&color=D14836&style=for-the-badge&logo=star" alt="Profile Views" /> -->
+
+[![Email](https://img.shields.io/badge/Email-chansovisoth.business%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=chansovisoth.business@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chansovisoth/) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChansovisothWattanak)
+
 </div>
 
 
