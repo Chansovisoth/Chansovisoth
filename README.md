@@ -1,7 +1,7 @@
 <a href="https://github.com/chansovisoth">
   <div>
     <img src="banner.png" style="width: 100%;" alt="Banner">
-    <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+    <img align="right" width="43%" src="Xenia-Github.png">
   </div>
 </a>
 <br><br>
