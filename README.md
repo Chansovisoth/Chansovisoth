@@ -68,7 +68,7 @@
 <div align="center">
   <img src="https://github-readme-stats.profile-readme-generator.com/api?username=Chansovisoth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&border_radius=16&order=1&title_color=ff2929&icon_color=ff2929" height="150" alt="stats graph" />
 
-  <img src="https://streak-stats.demolab.com/?user=Chansovisoth&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&order=3&ring=ff2929&fire=ff2929&currStreakNum=ff2929&sideNums=ff2929&currStreakLabel=ff2929&sideLabels=ff2929&dates=ff2929" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=Chansovisoth&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&order=3&ring=ff2929&fire=ff8c00&currStreakNum=ff2929&sideNums=ff2929&currStreakLabel=ff2929&sideLabels=ff2929&dates=ff2929" height="150" alt="streak graph" />
 
   <img src="https://github-readme-activity-graph.profile-readme-generator.com/graph?username=Chansovisoth&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&area_color=ff2929&point=d42020&line=b50000&custom_title=LARP%20GRAPH" height="300" alt="activity graph" />
 </div>
