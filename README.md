@@ -1,5 +1,4 @@
 <a href="https://github.com/chansovisoth">
-  <!--   <img src="https://i.ibb.co/hXz5x74/channels4-banner.png" style="width: 100%;" alt="Banner"> -->
   <div>
     <img src="banner.png" style="width: 100%;" alt="Banner">
     <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -8,6 +7,7 @@
 <br><br>
 
 > "Hi. I'm a CS graduate from **Paragon International University**. Welcome to my humble digital abode. Here, you'll find my projects, contributions, and some of the things I'm currently working on." Pfp by: @OKAMIkoto050
+<img data-importer="profile-views" src="https://count.getloli.com/@:Chansovisoth?theme=sketch-2&padding=5&scale=1&align=center&pixelated=1&darkmode=0"  />
 
 
 
@@ -63,9 +63,12 @@
 
 
 
-## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85e1d7ce97e24e3f9f1ba277d3112c11/static/light/3.0" height="40"/> STATS 
+## <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85e1d7ce97e24e3f9f1ba277d3112c11/static/light/3.0" height="40"/> STATS
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chansovisoth&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=chansovisoth&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chansovisoth&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Perfomance%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api?username=Chansovisoth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&border_radius=16&order=1&title_color=ff2929&icon_color=ff2929" height="150" alt="stats graph" />
+
+  <img src="https://streak-stats.demolab.com/?user=Chansovisoth&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&order=3&ring=ff2929&fire=ff2929&currStreakNum=ff2929&sideNums=ff2929&currStreakLabel=ff2929&sideLabels=ff2929&dates=ff2929" height="150" alt="streak graph" />
+
+  <img src="https://github-readme-activity-graph.profile-readme-generator.com/graph?username=Chansovisoth&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&area_color=ff2929&point=d42020&line=b50000&custom_title=LARP%20GRAPH" height="300" alt="activity graph" />
 </div>
