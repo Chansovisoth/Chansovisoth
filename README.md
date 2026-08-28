@@ -6,7 +6,10 @@
 </a>
 <br><br>
 
-> "Hi. I'm a CS graduate from **Paragon International University**. Welcome to my humble digital abode. Here, you'll find my projects, contributions, and some of the things I'm currently working on." Pfp by: @OKAMIkoto050
+> "Hi. I'm a CS graduate from **Paragon International University**. Welcome to my humble digital abode. Here, you'll find my projects, contributions, and some of the things I'm currently working on."
+
+`PFP by: @OKAMIkoto050` `Xenia by: @cathodegaytube`
+  
 <img data-importer="profile-views" src="https://count.getloli.com/@:Chansovisoth?theme=sketch-2&padding=5&scale=1&align=center&pixelated=0&darkmode=0"  />
 
 
