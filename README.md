@@ -10,7 +10,7 @@
 
 `PFP by: @OKAMIkoto050` `Xenia by: @cathodegaytube`
   
-<img data-importer="profile-views" src="https://count.getloli.com/@:Chansovisoth?theme=sketch-2&padding=5&scale=1&align=center&pixelated=0&darkmode=0"  />
+<img data-importer="profile-views" src="https://count.getloli.com/@:Chansovisoth?theme=sketch-2&padding=5&scale=1&align=center&pixelated=0&darkmode=0" />
 
 
 
